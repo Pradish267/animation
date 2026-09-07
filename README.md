@@ -33,8 +33,8 @@ Step 8: Save and run the application.
 ```
 /*
 Program to display animation operation”.
-Developed by:siva r
-Registeration Number :212225100050
+Developed by:Pradish Priyan S P
+Registeration Number :212225230210
 */
 ```
 MAINACTIVITY>JAVA
